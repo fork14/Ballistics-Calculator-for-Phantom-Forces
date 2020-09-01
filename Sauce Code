@@ -35,7 +35,6 @@ while lop == True:
     
   elif ch =="damage":
     u = float(input("Max Damage: "))
-    u = float(input("Max Damage: "))
     v = float(input("Min Damage: "))
     a = float(input("Max Damage Distance (The LOWER Stud Value): "))
     b = float(input("Min Damage Distance (The HIGHER Stud Value): "))
